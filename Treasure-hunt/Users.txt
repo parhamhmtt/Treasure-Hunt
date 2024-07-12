@@ -1,0 +1,7 @@
+4
+false
+0
+{"x":0,"moved":true,"l":[0,0],"y":19,"score":0,"HP":5,"LongJumpCount":6,"DestructionCount":3,"SpawnTrapCount":3,"nothingHappend":false,"Tag":"PL1","Destroyable":false}
+{"x":9,"moved":true,"l":[0,0],"y":0,"score":0,"HP":5,"LongJumpCount":6,"DestructionCount":3,"SpawnTrapCount":3,"nothingHappend":false,"Tag":"PL2","Destroyable":false}
+{"x":0,"moved":true,"l":[0,0],"y":0,"score":0,"HP":5,"LongJumpCount":6,"DestructionCount":3,"SpawnTrapCount":3,"nothingHappend":false,"Tag":"PL3","Destroyable":false}
+{"x":9,"moved":true,"l":[0,0],"y":19,"score":0,"HP":5,"LongJumpCount":6,"DestructionCount":3,"SpawnTrapCount":3,"nothingHappend":false,"Tag":"PL4","Destroyable":false}
